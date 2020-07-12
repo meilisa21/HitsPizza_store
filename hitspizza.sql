@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 11, 2020 at 10:25 PM
+-- Generation Time: Jul 12, 2020 at 05:23 PM
 -- Server version: 10.1.37-MariaDB
 -- PHP Version: 5.6.40
 
@@ -133,10 +133,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id_user`, `nama`, `email`, `username`, `password`, `role_id`, `is_active`) VALUES
-(1, 'Fahmi Ihza Nugroho', 'fahmiihza90@gmail.com', 'reinne', '170566afb86b37c41b3ead102e4d7315', 2, 1),
-(2, 'Hinelle', 'famztrooper90@gmail.com', 'Hinelia', 'da16b4a6a379d21f344b8d56fcf2828e', 2, 1),
-(3, 'Admin', 'admin@gmail.com', 'Admin', '0192023a7bbd73250516f069df18b500', 1, 1),
-(4, 'Meilisa Rahayu Kurnia', 'meilisarahayu21@gmail.com', 'Meilisa', '25d55ad283aa400af464c76d713c07ad', 2, 1);
+(1, 'Admin', 'admin@gmail.com', 'Admin', '0192023a7bbd73250516f069df18b500', 1, 1),
+(2, 'Meilisa Rahayu Kurnia', 'meilisarahayu21@gmail.com', 'Meilisa', '25d55ad283aa400af464c76d713c07ad', 2, 1);
 
 -- --------------------------------------------------------
 
