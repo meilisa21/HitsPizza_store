@@ -1,5 +1,5 @@
 # HitsPizza_store
-Repositories Code_stores ( FIX )
+Repositories HitsPizza_store ( FIX )
 
 Meilisa Rahayu Kurnia ( A22.2018.02695) & Juan Frido Aditiya ( A22.2018.02710 )
 
